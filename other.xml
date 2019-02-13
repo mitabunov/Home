@@ -1,0 +1,58 @@
+<application>
+  <component name="EduSettings">
+    <option name="lastTimeChecked" value="1550070577493" />
+    <option name="shownCourseIds">
+      <set />
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="24-204-15-255,,,38-204-9-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Edu.CourseCreator.Enabled" value="false" />
+    <property name="Educational.conflictingPluginsDisabled" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="XML Properties File" />
+    <property name="PACKAGE_FILTER" value="spacy&#10;numpy" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SettingsSearchHistory" value="remove directory&#10;inter&#10;git" />
+    <property name="StudyPyCharm.InitialConfiguration40" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="edu" />
+    <property name="com.jetbrains.edu.LAST_UPDATE" value="1549481232270" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/PycharmProjects/2701/2701_4.py&#10;/home/mikhail/PycharmProjects/OOP2801/2801.py&#10;/home/mikhail/PycharmProjects/numpy/Employer.py&#10;/home/mikhail/PycharmProjects/2701/2701.py&#10;/home/mikhail/Рабочий стол/2701Py/GeekWorks/Reposit/random.py&#10;/home/mikhail/PycharmProjects/ModulsGeek/random.py&#10;/home/mikhail/PycharmProjects/GeekWorks/Reposit/random.py&#10;/home/mikhail/PycharmProjects/GeekWorks/Reposit/2501.py&#10;/home/mikhail/PycharmProjects/GeekWorks/Reposit/2001.py&#10;/home/mikhail/PycharmProjects/GeekWorks/Reposit/1701.py&#10;/home/mikhail/PycharmProjects/GeekWorks/Reposit/1601.py&#10;/home/mikhail/PycharmProjects/GeekWorks/Reposit/1501.py&#10;/home/mikhail/PycharmProjects/GeekWorks/1501.py&#10;/home/mikhail/PycharmProjects/GeekWorks/1401.py&#10;/home/mikhail/PycharmProjects/GeekWorks/13012.py&#10;/home/mikhail/PycharmProjects/GeekWorks&#10;/home/mikhail/PycharmProjects/1001/13012.py&#10;/home/mikhail/10011&#10;/home/mikhail/PycharmProjects/nero/neuro.py&#10;/home/mikhail/PycharmProjects/0501/0501.py&#10;/home/mikhail/PycharmProjects/0404/0101.py&#10;/home/mikhail/PycharmProjects/untitled/01012.py&#10;/home/mikhail/PycharmProjects/0101/0101.py" />
+    <property name="file.gist.reindex.count" value="9442" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="lastTip" value="47" />
+    <property name="selected.color.option.type" value="PY.BUILTIN_NAME" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/OOP2801/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="/usr/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/OOP2801/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="/usr/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/OOP2801/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="/usr/bin/python3.6" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

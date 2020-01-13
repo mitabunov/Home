@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Neuro'" />
-    <option name="defaultScopeName" value="Project 'Neuro'" />
-    <option name="SEARCH_SCOPE" value="Project 'Neuro'" />
+    <option name="customScope" value="File '~/Рабочий стол/messenger_012020/Студентам для решения домашнего задания/info_1.txt'" />
+    <option name="defaultScopeName" value="File '~/Рабочий стол/messenger_012020/Студентам для решения домашнего задания/info_1.txt'" />
+    <option name="SEARCH_SCOPE" value="File '~/Рабочий стол/messenger_012020/Студентам для решения домашнего задания/info_1.txt'" />
   </component>
 </application>

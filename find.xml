@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/Рабочий стол/messenger_012020/Студентам для решения домашнего задания/info_1.txt'" />
-    <option name="defaultScopeName" value="File '~/Рабочий стол/messenger_012020/Студентам для решения домашнего задания/info_1.txt'" />
-    <option name="SEARCH_SCOPE" value="File '~/Рабочий стол/messenger_012020/Студентам для решения домашнего задания/info_1.txt'" />
+    <option name="customScope" value="File '.../Урок 3. Пример практического задания/ya_03022020.py [messenger_012020]'" />
+    <option name="defaultScopeName" value="File '.../Урок 3. Пример практического задания/ya_03022020.py [messenger_012020]'" />
+    <option name="SEARCH_SCOPE" value="File '.../Урок 3. Пример практического задания/ya_03022020.py [messenger_012020]'" />
   </component>
 </application>
